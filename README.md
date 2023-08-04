@@ -1,2 +1,2 @@
-# PythonCodeing
+# PythonCoding
 Contains Python codes
